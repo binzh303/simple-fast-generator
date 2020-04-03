@@ -9,6 +9,10 @@
 2.  在SimpleFastGeneratorApplicationTests文件中，根据实际开发坏境修改包路径
 3.  在Swagger2Config中间中，修改swagger2所需要扫描的包（即controller包路径）
 
+#### 特别说明
+
+**如果需要的人多，后续会继续更新，增加一些组件。具体增加内容已经有些思路了，喜欢就点个star吧**
+
 #### 如何交流、反馈、参与贡献？
 
 - gitee地址：https://gitee.com/javaXiaoCaiJi/simple-fast-generator
