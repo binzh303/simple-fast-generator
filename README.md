@@ -18,6 +18,7 @@
 - gitee地址：https://gitee.com/javaXiaoCaiJi/simple-fast-generator
 - github地址：https://github.com/binzh303/simple-fast-generator
 - 个人独立站点：http://abin.website
+- issue请提交至github地址
 - 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
 - 如果想进去交流，请加微信byte-zb,备注加群
 - 微信扫码并关注【字节传说】，获得项目最新动态及更新提醒
