@@ -1,7 +1,5 @@
 # simple-fast-generator
 
-
-
 #### introduce
 
 simple-fast-generator，can generate entity、controller、service、serviceImpl、mapper、xml，The generated code mainly contains CRUD、pagination list, physical, tombstone, entity details, etc.Fully meet the daily development and use。Integrate swagger2 to generate api documentation，Greatly improved the efficiency of front-office staff collaborative development。
@@ -24,4 +22,5 @@ simple-fast-generator，can generate entity、controller、service、serviceImpl
 - If you want to pay attention to the latest developments of the project, please watch and star project, and also the best support for the project
 - If you want to go in for communication, please add WeChat byte-zb.
 - Scan the code on WeChat and follow [字节传说] to get the latest project updates and updates
-=======
+
+![Alt](./byte.jpg)
