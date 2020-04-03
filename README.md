@@ -1,37 +1,19 @@
 # simple-fast-generator
 
 #### 介绍
-简易版代码生成器，支持生成entity、controller、service、serviceImpl、mapper、xml等文件，生成的代码主要包含了CRUD接口、分页列表、物理、逻辑删除、实体详情等接口，完全满足日常开发使用。集成swagger2生成api文档。
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+简易版代码生成器，支持生成entity、controller、service、serviceImpl、mapper、xml等文件，生成的代码主要包含了CRUD接口、分页列表、物理、逻辑删除、实体详情等接口，完全满足日常开发使用。集成swagger2生成api文档，极大的改善了前后台人员协同开发的效率。
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  修改application-dev.yml中的数据库配置
+2.  在SimpleFastGeneratorApplicationTests文件中，根据实际开发坏境修改包路径
+3.  在Swagger2Config中间中，修改swagger2所需要扫描的包（即controller包路径）
 
-#### 参与贡献
+#### 如何交流、反馈、参与贡献？
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 码云特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5.  码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+- gitee地址：https://gitee.com/javaXiaoCaiJi/simple-fast-generator
+- github地址：https://github.com/binzh303/simple-fast-generator
+- 个人独立站点：http://abin.website
+- 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
+- 如果想进去交流，请加微信byte-zb,备注加群
+- 微信扫码并关注【字节传说】，获得项目最新动态及更新提醒
