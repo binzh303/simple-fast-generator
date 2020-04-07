@@ -8,6 +8,7 @@
 1.  修改application-dev.yml中的数据库配置
 2.  在SimpleFastGeneratorApplicationTests文件中，根据实际开发坏境修改包路径
 3.  在Swagger2Config中间中，修改swagger2所需要扫描的包（即controller包路径）
+4.  api文档地址访问http://ip:port/doc.html
 
 #### 特别说明
 
